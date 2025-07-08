@@ -5,7 +5,7 @@
   <h2>Gaming Portfolio Project</h2>
   <p>
     <strong>Live Link:</strong>
-    <a href="https://gamifyportfolio.netlify.app/" target="_blank">https://your-live-link-here.com</a>
+    <a href="https://gamifyportfolio.netlify.app/" target="_blank">Kill Me ⚔️</a>
   </p>
 
   <h2>About the Project</h2>
